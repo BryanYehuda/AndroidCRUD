@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="nrp">NRP</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="ambildata">AmbilData</string>
+    <string name="update">Update</string>
+    <string name="hapus">Hapus</string>
+</resources>
